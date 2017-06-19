@@ -1,3 +1,9 @@
-# Motivo
+# Objetivos de la repositorio
 
-Este repositorio sirve para probar cosas
+Este proyecto se encarga de manejar los planes de la liga de la justicia
+
+
+## Notas
+Pueden hacer lo que quieran...
+
+La pollada de Yair se quedo
